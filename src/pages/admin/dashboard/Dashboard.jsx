@@ -1,5 +1,7 @@
 import React, { useContext } from 'react'
 import {FaUserTie } from 'react-icons/fa';
+// import { FaIconName } from 'react-icons/fa';
+// import { FontAwesomeIcon } from 'react-icons/fa/solid';
 import myContext from '../../../context/data/myContext';
 import Layout from '../../../components/layout/Layout';
 import DashboardTab from './DashboardTab';
